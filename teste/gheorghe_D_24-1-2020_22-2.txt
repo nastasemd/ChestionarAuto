@@ -1,0 +1,13 @@
+7 8 34 1 0 21 32 3 14 26 10 2 23 12 24 20 18 28 29 31 6 4 22 25 27 11
+0 R D G
+1 V D D
+2 V D D
+3 D D V
+4 G D R
+5 D D V
+6 G G V
+7 D R G
+8 D V D
+9 R G D
+Nepromovat
+5 5
